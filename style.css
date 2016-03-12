@@ -98,10 +98,8 @@ nav .account-img {
 
 .search-box {
 	max-width: 484px;
-	background-color: #fff;
     border: 1px solid #d9d9d9;
     height: 38px;
-    vertical-align: top;
     margin: auto;
 }
 
@@ -118,13 +116,9 @@ nav .account-img {
 .search-box input {
 	border: none;
     padding: 0px;
-    margin: 0px;
-    height: auto;
     width: 90%;
-    outline: none;
     font: 16px arial,sans-serif;
-    line-height: 26px !important;
-    height: 26px !important;
+    height: 26px;
     margin-top: 6px;
     margin-left: 8px;
 }
